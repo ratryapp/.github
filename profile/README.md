@@ -1,6 +1,9 @@
 ## 🙋‍♀️ A short introduction
 We are just makers.
 
+## 📋 Our project list.
+**[Dictry](https://dictry.now.sh)**: Let's memorize the words for a day 🚀
+
 ## 🌈 Contribution guidelines
 Please check out our organization's repository at README.md. :3
 
