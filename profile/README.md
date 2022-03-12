@@ -2,7 +2,7 @@
 We are just makers.
 
 ## 📋 Our project list.
-**[Dictry](https://dictry.now.sh)**: Let's memorize the words for a day 🚀\
+**[Dictry](https://dictryc.now.sh)**: Let's memorize the words for a day 🚀\
 **Dictry-serverless**: Dictry's API serverless
 
 
